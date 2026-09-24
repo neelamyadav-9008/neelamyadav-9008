@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Neelam 👋
 
-<!--
-**neelamyadav-9008/neelamyadav-9008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 🤖 AI & ML Enthusiast | 💻 Frontend Developer
 
-Here are some ideas to get you started:
+I'm a 3rd-semester Computer Science student specializing in **Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical projects, learning new technologies, and solving problems with code.
+
+Currently exploring:
+
+* 🤖 AI & Machine Learning
+* 🌐 Frontend Development
+* 🧠 Data Structures & Algorithms
+* 🐍 Python
+* 💻 C++
+* ⚡ JavaScript
+
+🚀 **Currently building:** AI-powered projects and improving my development skills.
